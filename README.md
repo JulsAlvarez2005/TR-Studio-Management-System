@@ -10,8 +10,7 @@ A professional, full-stack web application designed to streamline operations for
 * **📊 Executive Dashboard:** Real-time financial insights using **Chart.js**. Visualize monthly revenue and active project stats at a glance.
 * **🎛️ Service Catalog:** Dynamic pricing tables with toggle switches to instantly enable/disable studio services.
 * **📅 Deadline Tracking:** Automated tracking of project deadlines with visual status indicators.
-* **👥 Team Management:** Role-based access control for Engineers, Staff, and Admins.
-* **🌗 Dark Mode:** Fully responsive UI with built-in dark mode support.
+
 
 ## 🛠️ Tech Stack
 
