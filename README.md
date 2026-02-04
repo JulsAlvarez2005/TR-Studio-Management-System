@@ -2,8 +2,7 @@
 
 A professional, full-stack web application designed to streamline operations for audio recording studios. This system handles project tracking, financial reporting, service management, and engineering team coordination.
 
-![Dashboard Preview](https://via.placeholder.com/1000x500?text=Insert+Dashboard+Screenshot+Here)
-*(Add a screenshot of your dashboard here later)*
+<img width="1883" height="956" alt="dashboard" src="https://github.com/user-attachments/assets/62978523-773d-492a-a8a0-a1d2b897cbcc" />
 
 ## 🚀 Key Features
 
